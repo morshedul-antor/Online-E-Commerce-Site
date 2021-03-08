@@ -1,1 +1,2 @@
-# Online-E-Commerce-Site
+# Online-Ecommerce-Site
+Find all products in one platform
